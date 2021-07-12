@@ -1,2 +1,3 @@
 # PythonPractice
-This repo contains miscelleneous files of my python practice
+This repo contains miscellaneous files of my python practice
+1. Hyperbola and locus
